@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": “我的百度”,
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"url": “http://www.baidu.com”,
+		"date": "2014年5月”,
+		"tags": [“SEO”,”API"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": “我的iOS项目”,
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"tags": [“iOS”,”PHP"]
 	},
 	{
 		"name": "Cool project 3",

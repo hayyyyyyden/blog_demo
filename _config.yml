@@ -1,12 +1,12 @@
-title: John Smith
+title: 方一雄
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+author: Fang
+logo: /static/img/avatar.png
+github: https://github.com/FangYiXiong
+about: 一个独立的人的独立博客
 
-baseurl: "http://aboutashu.com/hcz-jekyll-blog"
-url: "http://aboutashu.com/hcz-jekyll-blog"
+baseurl: "https://fangyixiong.github.io/blog_demo/"
+url: "https://fangyixiong.github.io/blog_demo/"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
