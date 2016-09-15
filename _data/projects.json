@@ -1,13 +1,13 @@
 [
 	{
-		"name": “我的百度”,
+		"name": "我的百度",
 		"image": "placeholder.jpg",
-		"url": “http://www.baidu.com”,
+		"url": "http://www.baidu.com",
 		"date": "2014年5月”,
 		"tags": [“SEO”,”API"]
 	},
 	{
-		"name": “我的iOS项目”,
+		"name": "我的iOS项目",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "May 2014",
