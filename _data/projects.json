@@ -4,14 +4,14 @@
 		"image": "placeholder.jpg",
 		"url": "http://www.baidu.com",
 		"date": "2014年5月”,
-		"tags": [“SEO”,”API"]
+		"tags": ["SEO","API"]
 	},
 	{
 		"name": "我的iOS项目",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "May 2014",
-		"tags": [“iOS”,”PHP"]
+		"tags": ["iOS","PHP"]
 	},
 	{
 		"name": "Cool project 3",
